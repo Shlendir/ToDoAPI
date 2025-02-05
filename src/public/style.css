@@ -1,0 +1,8 @@
+
+li.ant-list-item[data-template] {
+  display: none;
+}
+
+body {
+  background-color: rgb(97, 104, 104);
+}
