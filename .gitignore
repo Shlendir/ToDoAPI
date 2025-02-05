@@ -130,5 +130,3 @@ dist
 .pnp.*
 
 # custom ignore
-/config.json
-src/config.json
